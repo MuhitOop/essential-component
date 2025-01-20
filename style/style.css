@@ -106,6 +106,7 @@ html {
 #card-box {
   width: 1320px;
   margin: 100px auto;
+  font-family: "work Sans";
 }
 
 #card-box .title {
